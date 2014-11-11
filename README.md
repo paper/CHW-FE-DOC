@@ -16,3 +16,6 @@ CHW-FE-DOC
     
     首页：201410xinfan.php
     内页：vedio.php
+
+##其他
+1. http://daneden.github.io/animate.css/ css3动画库，以后用得着
