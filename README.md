@@ -18,4 +18,9 @@ CHW-FE-DOC
     内页：vedio.php
 
 ##其他
+####参考素材
 1. http://daneden.github.io/animate.css/ css3动画库，以后用得着
+
+####编辑器说明：
+1. 统一使用 空格代替 tab，缩进使用2个空格。
+2. 统一使用 utf-8，无BOM文件编码格式。
