@@ -10,6 +10,9 @@ CHW-FE-DOC
 1. lazyload：http://www.18touch.com/Public/js/jquery.lazyload.min.js
 1. 跨域的广告模块（依赖jq） ：http://www.18touch.com/Public/js/18touch-guanggao.js?t=20141103_1938
 
+##seajs 组件
+1. 统一放在 http://www.18touch.com/Public/js/seajs-widget 目录下
+1. slider组件：http://www.18touch.com/Public/js/seajs-widget/slider.js
 
 ##说明
 
